@@ -1,4 +1,4 @@
-<h2 align="left">👋 ¡Hola! Soy Sarai Panta ,<br>🌍 De Ecuador, 21 años.</h2
+<h2 align="left">👋 ¡Hola! Soy Sarai Panta ,<br>🌍 De Ecuador, 22 años.</h2
  
  ###
  # 💫 About Me:
